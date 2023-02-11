@@ -4,12 +4,7 @@ verify_ssl = true
 name = "pypi"
 
 [packages]
-requests = "*"
-arviz = "*"
-pymc = "*"
-matplotlib = "*"
-numpy = "*"
-scipy = "*"
+ipython = "*"
 
 [dev-packages]
 
